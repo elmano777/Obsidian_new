@@ -45,8 +45,7 @@
               "title": "MD2.Capítulo 1.Inducción-recursividad"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/MD2.Capítulo 1.Inducción-recursividad.pdf",
+                "file": "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/Induccion - recursividad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de MD2.Capítulo 1.Inducción-recursividad"
+              "title": "Enlaces entrantes de Induccion - recursividad"
             }
           },
           {
@@ -177,17 +176,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/MD2.Capítulo 1.Inducción-recursividad.pdf",
+                "file": "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/Induccion - recursividad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de MD2.Capítulo 1.Inducción-recursividad"
+              "title": "Esquema de Induccion - recursividad"
             }
           },
           {
-            "id": "65606cae7e68f38c",
+            "id": "38264a099054baf3",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -216,13 +215,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5bb7c604c6de5602",
+  "active": "22f20d3d247c79fa",
   "lastOpenFiles": [
-    "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/Drawing 2025-04-07 16.23.04.excalidraw.md",
     "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/Induccion - recursividad.md",
+    "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/MD2.Capítulo 1.Inducción-recursividad.pdf",
+    "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/Drawing 2025-04-07 16.23.04.excalidraw.md",
     "utec 3ro/UTEC.md",
     "image-4.png",
-    "utec 3ro/Matematicas discretas II/Semana 3/S1/Teory/MD2.Capítulo 1.Inducción-recursividad.pdf",
     "utec 3ro/Matematicas discretas II/Matematicas discretas II.md",
     "utec 3ro/Metodos numericos/Semana 3/S1/Teory/Ecuaciones No Lineales.md",
     "utec 3ro/Metodos numericos/Semana 3/S2/S2.md",
